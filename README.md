@@ -1,5 +1,9 @@
 # Final Course Project
 
+## Note : 
+You can find the original repository [here](https://github.com/sMouaad/FinalCourseProject), this is a copy of our main porject repository.
+
+
 ## Project Overview
 This project is focused on developing a web and mobile application aimed at improving social skills and enhancing the quality of life for individuals with Autism and Alzheimer's. The application leverages cutting-edge technology to provide tools that can assist in cognitive development and social interaction.
 
