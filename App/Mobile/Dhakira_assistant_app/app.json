@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Dhakira",
+    "slug": "Dhakira",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyBOT_Bqrdzh58CwIV3O6AuwcFxDu429whY" }
+      },
+      "package": "com.abderraouf_mah.Dhakira"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
